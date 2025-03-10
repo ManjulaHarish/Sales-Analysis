@@ -5,3 +5,4 @@ US country superstore data analysis :
 2. Created necessary measures in Power BI desktop using DAX .
 3. Inserted KPI cards, different visuals to draw the required insights.
 4. Utilized features like page navigation & customized tooltip to provide more information from the existing chart.
+
